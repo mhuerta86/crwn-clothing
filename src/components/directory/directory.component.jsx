@@ -41,6 +41,7 @@ class Directory extends React.Component {
           linkUrl: "shop/mens"
         }
       ]
+      
     };
   }
 
